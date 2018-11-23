@@ -52,6 +52,7 @@ public class Store {
 //        Store ball = new Store(26, 51.23, "ball");
 //        Store pen = new Store(44, 123.3123, "pen");
 //        compare(ball, pen);
+
 //        System.out.println("общее количесто товаров на складе " + allNumberProducts(ball, pen));
 //    }
 
